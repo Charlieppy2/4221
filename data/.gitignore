@@ -1,0 +1,12 @@
+# 忽略所有图片文件，不提交到Git
+*.jpg
+*.jpeg
+*.png
+*.JPG
+*.JPEG
+*.PNG
+
+# 保留目录结构
+!*/
+!.gitkeep
+
